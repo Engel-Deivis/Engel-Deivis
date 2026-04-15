@@ -35,14 +35,14 @@ const angel = {
   disponible: true,
 
   stack: {
-    Frontend & UI/UX:  ["HTML", "CSS", "TailwindCSS", "JavaScript", "Figma", "Responsive Design"],
+    Frontend & UI/UX: ["HTML", "CSS", "TailwindCSS", "JavaScript", "Figma", "Responsive Design"],
     Backend & Bases de datos:   ["Python", "MySQL", "MongoDB", "Odoo17/a", "Xampp"],
     Automatización: ["N8N"]
-    cms:       ["Odoo", "Odoo 17", "Snippets", "XML", "Scss", "Python"],
+    cms: ["Odoo", "Odoo 17", "Snippets", "XML", "Scss", "Python"],
     DevOps & Control de versiones: ["Git", "GitHub", "Linux Ubuntu", "Vercel", "GitHub Pages", "Dockploy"],
-    tools:     ["N8N", "Figma", "VS Code", "MongoDB Compass"],
-    Marketing Digital:     ["Google Analytics", "Google Tag Manager", "Search Console", "Google Ads", "Seo & Keywords"],
-    Inteligencia Artificial & Prompting:     ["Claude AI", "ChatGPT", "Prompt Engineering", "AI Consulting"],
+    tools: ["N8N", "Figma", "VS Code", "MongoDB Compass"],
+    Marketing Digital: ["Google Analytics", "Google Tag Manager", "Search Console", "Google Ads", "Seo & Keywords"],
+    Inteligencia Artificial & Prompting: ["Claude AI", "ChatGPT", "Prompt Engineering", "AI Consulting"],
   },
 
   logro_real: "Desarrollé y desplegué el sitio oficial de KTC para Cecomsa — una de las empresas más reconocidas de RD 🇩🇴",
