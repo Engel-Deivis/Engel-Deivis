@@ -36,7 +36,7 @@ const angel = {
 
   stack: {
     Frontend & UI/UX: ["HTML", "CSS", "TailwindCSS", "JavaScript", "Figma", "Responsive Design"],
-    Backend & Bases de datos:   ["Python", "MySQL", "MongoDB", "Odoo17/a", "Xampp"],
+    Backend & Bases de datos: ["Python", "MySQL", "MongoDB", "Odoo17/a", "Xampp"],
     Automatización: ["N8N"]
     cms: ["Odoo", "Odoo 17", "Snippets", "XML", "Scss", "Python"],
     DevOps & Control de versiones: ["Git", "GitHub", "Linux Ubuntu", "Vercel", "GitHub Pages", "Dockploy"],
