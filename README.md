@@ -27,7 +27,7 @@
 ```javascript
 const angel = {
   nombre:     "Ángel David",
-  ubicacion:  "Santo Domingo, RD 🇩🇴",
+  ubicacion:  "Santiago de los Caballeros, RD 🇩🇴",
   empresa:    "Solcraft — Build things that last",
   rol:        "Full Stack Developer",
   en_vivo:    "https://www.ktc.com.do/",
@@ -35,14 +35,17 @@ const angel = {
   disponible: true,
 
   stack: {
-    frontend:  ["HTML", "CSS", "TailwindCSS", "JavaScript", "React", "Astro"],
-    backend:   ["Node.js", "Express", "Python", "PostgreSQL", "MongoDB"],
-    cms:       ["Odoo 17", "Snippets", "XML", "Python"],
-    devops:    ["Git", "GitHub", "Vercel", "GitHub Pages"],
+    Frontend & UI/UX:  ["HTML", "CSS", "TailwindCSS", "JavaScript", "Figma", "Responsive Design"],
+    Backend & Bases de datos:   ["Python", "MySQL", "MongoDB", "Odoo17/a", "Xampp"],
+    Automatización: ["N8N"]
+    cms:       ["Odoo", "Odoo 17", "Snippets", "XML", "Scss", "Python"],
+    DevOps & Control de versiones: ["Git", "GitHub", "Linux Ubuntu", "Vercel", "GitHub Pages", "Dockploy"],
     tools:     ["N8N", "Figma", "VS Code", "MongoDB Compass"],
+    Marketing Digital:     ["Google Analytics", "Google Tag Manager", "Search Console", "Google Ads", "Seo & Keywords"],
+    Inteligencia Artificial & Prompting:     ["Claude AI", "ChatGPT", "Prompt Engineering", "AI Consulting"],
   },
 
-  logro_real: "Llevé KTC / Cecomsa a producción desde 0 🚀",
+  logro_real: "Desarrollé y desplegué el sitio oficial de KTC para Cecomsa — una de las empresas más reconocidas de RD 🇩🇴",
   busco:      "Oportunidades en RD o remoto",
 };
 ```
