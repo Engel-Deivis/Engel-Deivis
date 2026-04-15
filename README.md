@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Ángel%20David&fontSize=70&fontColor=fff&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20Santo%20Domingo,%20RD&descAlignY=58&descSize=18&descColor=fff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Ángel%20David&fontSize=70&fontColor=fff&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20Santiago%20de%20los%20Caballeros,%20RD&descAlignY=58&descSize=18&descColor=fff&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4AA&center=true&vCenter=true&multiline=false&width=700&lines=Hola+mundo+%F0%9F%91%8B+Soy+Ángel+David;Full+Stack+Developer+desde+RD+%F0%9F%87%A9%F0%9F%87%B4;Fundador+de+Solcraft+%E2%80%94+Build+things+that+last;Odoo+17+·+Node.js+·+React+·+MongoDB;Llevé+KTC+%2F+Cecomsa+a+producción+%E2%9C%85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4AA&center=true&vCenter=true&multiline=false&width=700&lines=Hola+mundo+%F0%9F%91%8B+Soy+Ángel+David)](https://git.io/typing-svg)
 
 </div>
 
