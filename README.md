@@ -113,7 +113,6 @@ Plataforma completa para Pymes dominicanas. Clientes, inventario, pagos y report
 </div>
 
 ---
-
 ## 🛠️ Stack tecnológico
 
 <div align="center">
@@ -135,6 +134,10 @@ Plataforma completa para Pymes dominicanas. Clientes, inventario, pagos y report
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo_17-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 
+**Automatización**
+
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
 **DevOps & Control de versiones**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -151,7 +154,15 @@ Plataforma completa para Pymes dominicanas. Clientes, inventario, pagos y report
 ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO_&_Keywords-34A853?style=for-the-badge&logo=google&logoColor=white)
 
+**Inteligencia Artificial & Prompting**
+
+![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
+![AI Consulting](https://img.shields.io/badge/AI_Consulting-0EA5E9?style=for-the-badge&logo=anthropic&logoColor=white)
+
 </div>
+
 ---
 
 ## 📊 GitHub Stats
