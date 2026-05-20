@@ -22,27 +22,26 @@
 
 <img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=Engel-Deivis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9&icon_color=00d4aa&ring_color=00d4aa"/>
 
-### 👨‍💻 Sobre mí
+### Sobre mí
 
 ```javascript
 const angel = {
   nombre:     "Ángel David",
   ubicacion:  "Santiago de los Caballeros, RD 🇩🇴",
-  empresa:    "Solcraft — Build things that last",
   rol:        "Full Stack Developer",
   en_vivo:    "https://www.ktc.com.do/",
   contacto:   "angel@novalink.dev",
   disponible: true,
 
   stack: {
-    Frontend & UI/UX: ["HTML", "CSS", "TailwindCSS", "JavaScript", "Figma", "Responsive Design"],
-    Backend & Bases de datos: ["Python", "MySQL", "MongoDB", "Odoo17/a", "Xampp"],
-    Automatización: ["N8N"]
-    cms: ["Odoo", "Odoo 17", "Snippets", "XML", "Scss", "Python"],
-    DevOps & Control de versiones: ["Git", "GitHub", "Linux Ubuntu", "Vercel", "GitHub Pages", "Dockploy"],
-    tools: ["N8N", "Figma", "VS Code", "MongoDB Compass"],
-    Marketing Digital: ["Google Analytics", "Google Tag Manager", "Search Console", "Google Ads", "Seo & Keywords"],
-    Inteligencia Artificial & Prompting: ["Claude AI", "ChatGPT", "Prompt Engineering", "AI Consulting"],
+    "Frontend & UI/UX":            ["HTML", "CSS", "TailwindCSS", "JavaScript", "Figma", "Responsive Design"],
+    "Backend & Bases de datos":    ["Python", "MySQL", "MongoDB", "Odoo 17"],
+    "Automatización":              ["N8N"],
+    "CMS & ERP":                   ["Odoo", "Odoo 17", "Snippets", "XML", "SCSS", "Python"],
+    "DevOps & Control versiones":  ["Git", "GitHub", "Linux Ubuntu", "Vercel", "GitHub Pages", "Dokploy"],
+    "Tools":                       ["N8N", "Figma", "VS Code", "MongoDB Compass"],
+    "Marketing Digital":           ["Google Analytics", "Google Tag Manager", "Search Console", "Google Ads", "SEO & Keywords"],
+    "IA & Prompting":              ["Claude AI", "ChatGPT", "Prompt Engineering", "AI Consulting"],
   },
 
   logro_real: "Desarrollé y desplegué el sitio oficial de KTC para Cecomsa — una de las empresas más reconocidas de RD 🇩🇴",
@@ -54,7 +53,7 @@ const angel = {
 
 ---
 
-## 🚀 Proyectos en producción y portafolio
+## Proyectos en producción
 
 <div align="center">
 
@@ -62,52 +61,52 @@ const angel = {
 <tr>
 <td width="50%">
 
-### 🟣 KTC — Cecomsa
-**En producción ✅**
+### KTC — Cecomsa
+**En producción**
 
-Sitio web oficial de KTC, marca de Cecomsa — una de las empresas más grandes de RD. Desarrollado con Odoo 17 desde cero hasta producción.
+Sitio corporativo oficial de KTC, marca de Cecomsa. Diseño elegante orientado a la experiencia del usuario y tecnología de climatización.
 
-**Stack:** Odoo 17 · Snippets · XML · Python
+**Stack:** Odoo 17 · XML · SCSS · Python
 
 [![Ver sitio](https://img.shields.io/badge/Ver%20sitio%20en%20vivo-00d4aa?style=for-the-badge&logo=vercel&logoColor=black)](https://www.ktc.com.do/)
 
 </td>
 <td width="50%">
 
-### 📰 PulsoRD
+### PulsoRD
 **Frontend · En desarrollo**
 
-Noticiero digital con noticias en tiempo real de todos los medios dominicanos. NewsAPI + GNews + RSS feeds.
+Diseño editorial minimalista estilo NYT. Centraliza múltiples fuentes nacionales con widgets de clima y divisas en vivo.
 
-**Stack:** HTML · TailwindCSS · JS · NewsAPI · GNews
+**Stack:** JS ES6+ · TailwindCSS · NewsAPI · RSS
 
-[![Ver repo](https://img.shields.io/badge/Ver%20repositorio-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Engel-Deivis)
+[![Ver sitio](https://img.shields.io/badge/Ver%20sitio%20en%20vivo-00d4aa?style=for-the-badge&logo=vercel&logoColor=black)](https://pulso-rd.vercel.app/)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 💈 StyleRD
-**Full Stack · En desarrollo**
+### Portal de Clientes
+**Sistema Web · En producción**
 
-Directorio de salones, barberías y spas de RD con mapa interactivo Leaflet y panel admin.
+Gestión centralizada de facturas y soporte. Dashboard interactivo y bot de soporte automatizado.
 
-**Stack:** HTML · TailwindCSS · JS · Node.js · MongoDB
+**Stack:** HTML5 · JS ES6+ · Node.js · Express
 
-[![Ver repo](https://img.shields.io/badge/Ver%20repositorio-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Engel-Deivis)
+[![Ver sitio](https://img.shields.io/badge/Ver%20sitio%20en%20vivo-00d4aa?style=for-the-badge&logo=vercel&logoColor=black)](https://cliente-portal-hllg.vercel.app/)
 
 </td>
 <td width="50%">
 
-### ⚙️ GestiónRD
-**Full Stack · Próximamente**
+### FlowBill
+**ERP / Facturación · En producción**
 
-Plataforma completa para Pymes dominicanas. Clientes, inventario, pagos y reportes.
+Solución de facturación e inventario con NCF, generación de PDFs y métricas clave en tiempo real.
 
-**Stack:** React · Node.js · PostgreSQL · Vercel
+**Stack:** Vite · Node.js · Supabase · Prisma
 
-[![Ver repo](https://img.shields.io/badge/Próximamente-555?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Ver sitio](https://img.shields.io/badge/Ver%20sitio%20en%20vivo-00d4aa?style=for-the-badge&logo=vercel&logoColor=black)](https://flow-bill-gamma.vercel.app/)
 
 </td>
 </tr>
@@ -116,7 +115,18 @@ Plataforma completa para Pymes dominicanas. Clientes, inventario, pagos y report
 </div>
 
 ---
-## 🛠️ Stack tecnológico
+
+## Portafolio profesional
+
+<div align="center">
+
+[![Portafolio](https://img.shields.io/badge/Ver%20Portafolio%20Completo-00d4aa?style=for-the-badge&logo=vercel&logoColor=black)](https://portafolio-web-angel-david.vercel.app/)
+
+</div>
+
+---
+
+## Stack tecnológico
 
 <div align="center">
 
@@ -168,15 +178,7 @@ Plataforma completa para Pymes dominicanas. Clientes, inventario, pagos y report
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Engel-Deivis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9&icon_color=00d4aa"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engel-Deivis&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9"/>
-
-</div>
+## GitHub Stats
 
 <div align="center">
 
@@ -184,9 +186,15 @@ Plataforma completa para Pymes dominicanas. Clientes, inventario, pagos y report
 
 </div>
 
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engel-Deivis&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9"/>
+
+</div>
+
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -196,7 +204,7 @@ Plataforma completa para Pymes dominicanas. Clientes, inventario, pagos y report
 
 ---
 
-## 📈 Actividad
+## Actividad
 
 <div align="center">
 
@@ -204,8 +212,6 @@ Plataforma completa para Pymes dominicanas. Clientes, inventario, pagos y report
 
 </div>
 
----
-
-## 🏢 Solcraft
-
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
+</div>
