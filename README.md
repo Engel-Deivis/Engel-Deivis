@@ -45,7 +45,6 @@ const angel = {
   },
 
   logro_real: "Desarrollé y desplegué el sitio oficial de KTC para Cecomsa — una de las empresas más reconocidas de RD 🇩🇴",
-  busco:      "Oportunidades en RD o remoto",
 };
 ```
 
