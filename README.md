@@ -29,8 +29,8 @@ const angel = {
   nombre:     "Ángel David",
   ubicacion:  "Santiago de los Caballeros, RD 🇩🇴",
   rol:        "Full Stack Developer",
-  en_vivo:    "https://www.ktc.com.do/",
-  contacto:   "angel@novalink.dev",
+  en_vivo:    "https://portafolio-web-angel-david.vercel.app/",
+  contacto:   "davidserrano14545@gmail.com",
   disponible: true,
 
   stack: {
