@@ -26,25 +26,29 @@
 
 ```javascript
 const angel = {
-  nombre:     "Ángel David",
-  ubicacion:  "Santiago de los Caballeros, RD 🇩🇴",
-  rol:        "Full Stack Developer",
-  en_vivo:    "https://portafolio-web-angel-david.vercel.app/",
-  contacto:   "davidserrano14545@gmail.com",
-  disponible: true,
+  nombre:       "Ángel David Concepción Serrano",
+  rol:          "Full Stack Developer & BI Developer",
+  especialidad: "Odoo 17 · Desarrollo Web · Business Intelligence",
+  ubicacion:    "Santiago de los Caballeros, RD 🇩🇴",
+  portafolio:   "https://portafolio-web-angel-david.vercel.app/",
+  github:       "https://github.com/Engel-Deivis",
+  contacto:     "davidserrano14545@gmail.com",
+  estado:       "Empleado a tiempo completo · Abierto a proyectos freelance y consultoría",
 
   stack: {
-    "Frontend & UI/UX":            ["HTML", "CSS", "TailwindCSS", "JavaScript", "Figma", "Responsive Design"],
-    "Backend & Bases de datos":    ["Python", "MySQL", "MongoDB", "Odoo 17"],
-    "Automatización":              ["N8N"],
-    "CMS & ERP":                   ["Odoo", "Odoo 17", "Snippets", "XML", "SCSS", "Python"],
-    "DevOps & Control versiones":  ["Git", "GitHub", "Linux Ubuntu", "Vercel", "GitHub Pages", "Dokploy"],
-    "Tools":                       ["N8N", "Figma", "VS Code", "MongoDB Compass"],
-    "Marketing Digital":           ["Google Analytics", "Google Tag Manager", "Search Console", "Google Ads", "SEO & Keywords"],
-    "IA & Prompting":              ["Claude AI", "ChatGPT", "Prompt Engineering", "AI Consulting"],
+    frontend:       ["HTML5", "CSS3", "Tailwind CSS", "JavaScript", "Responsive Design"],
+    backend:        ["Python", "MySQL", "MongoDB"],
+    odoo:           ["Odoo 17", "Módulos personalizados", "Snippets XML", "SCSS"],
+    automatizacion: ["n8n"],
+    devops:         ["Git", "GitHub", "Linux (Ubuntu)", "Vercel", "Dokploy", "GitHub Pages"],
+    herramientas:   ["VS Code", "Figma", "MongoDB Compass"],
+    marketing:      ["Google Analytics", "Google Tag Manager", "Search Console", "Google Ads", "SEO"],
+    ia:             ["Claude", "ChatGPT", "Prompt Engineering", "AI Consulting"],
   },
 
-  logro_real: "Desarrollé y desplegué el sitio oficial de KTC para Cecomsa — una de las empresas más reconocidas de RD 🇩🇴",
+  logroDestacado:
+    "Desarrollo y despliegue del sitio web oficial de la marca KTC para Cecomsa, " +
+    "una de las empresas de tecnología más reconocidas de República Dominicana 🇩🇴",
 };
 ```
 
